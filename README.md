@@ -6,6 +6,6 @@
 
 ## Index
 
-- * **File** - Package *
-- ** .exrc ** - Vi
-- ** .tmux.conf ** - [Tmux](https://github.com/tmux/tmux/wiki)x
+- **File** - Package *
+- ** .exrc ** - vi
+- ** .tmux.conf ** - [Tmux](https://github.com/tmux/tmux/wiki)
