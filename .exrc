@@ -1,2 +1,2 @@
 set showmode
-set nu
+set number
