@@ -6,6 +6,21 @@
 
 ![Screenshot](/tmuxvireadme.png?raw=true)
 
+## Installing
+1. Backup any config file(s) you plan to overwrite.
+2. Clone this repo into your chosen directory
+``` gh repo clone nonmajornerd/dotfiles ~/conf ```
+3. Create a symlink for each config desired
+For example to use my config file for vi;
+``` ln -sf ~/conf.exrc .exrc ```
+
+## Updating
+1. Updating the repo will update all existing symlinks.
+```
+cd ~/conf
+gh repo sync
+```
+
 ## Index
 
 - _**File** - Package_
