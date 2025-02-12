@@ -1,7 +1,7 @@
 # NMN DotFiles
 
-> [!Warning] Disclaimer;
-> I don't know what I'm doing.
+## Disclaimer
+> [!Warning] I don't know what I'm doing.
 > Use at your own risk, and make a backup first.
 
 ![Screenshot](/tmuxvireadme.png?raw=true)
