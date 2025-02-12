@@ -8,10 +8,10 @@
 
 ## Installing
 1. Backup any config file(s) you plan to overwrite.
-2. Clone this repo into your chosen directory
+2. Clone this repo into your chosen directory with<br>
 ``` gh repo clone nonmajornerd/dotfiles ~/conf ```
-3. Create a symlink for each config desired
-For example to use my config file for vi;
+3. Create a symlink for each config desired.<br>
+For example to use my config file for vi;<br>
 ``` ln -sf ~/conf.exrc .exrc ```
 
 ## Updating
